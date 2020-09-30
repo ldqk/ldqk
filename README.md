@@ -10,6 +10,8 @@
 | [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | [Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine) |
 | ----  | ----  |
 | <img src="https://starchart.cc/ldqk/Masuit.MyBlogs.svg"> | <img src="https://starchart.cc/ldqk/Masuit.LuceneEFCore.SearchEngine.svg"> |
+### 个人宗旨
+互联网分享精神！勤于发现，乐于分享！山外青山楼外楼，比上不足比下有余；规则是用来打破的，王道是用来颠覆的！
 ### 个人简介
 - 南山下，码农一枚。酷爱编程，乐于分享。
 - 09年开始接触编程，致力于更好的分享技术，分享人生。
@@ -19,3 +21,9 @@
 - 作为Microsoft、Google、Intel、NVIDIA、Qualcomm、中国电信、阿里巴巴集团、百度、腾讯、京东、哔哩哔哩、招商银行、台湾华硕股份、深圳万普拉斯科技、中国证监局、国家电网、中国铁路局等数十家国内外企业的投资人之一，并且保持着长期稳定的贸易与投资关系，每年助力企业产生数百亿的交易额的同时，为人低调；
 - 同时也是一位B站资深哲♂学家，探索未知领域😏。
 - 专业维修核潜艇，原子弹翻新/抛光/打蜡，回收二手航母、火箭，航天飞机保养，高空作业擦洗卫星表面除尘。批发战斗机/轰炸机、各类核弹头、EUV光刻机。出售各类火车内外胎，飞机转弯灯，量大从优！有发票！全面接受预定歼20，送飞机后视镜，挡风玻璃贴膜，还有惊喜小礼品钥匙扣，打火机等；承接太平洋加盖工程、月球装修工程项目。另，新到一批纯天然野生散养奥特曼 ，欢迎咨询订购…… ！
+### 职业经历
+- 新日暮里娼♂片公司·哲♂学顾问
+- 广door纳斯♂dark公司·平家♂boy
+- 幻想♂乡影视传媒·传播大使
+### 毕业院校
+尻♂立新日暮里♂dark学 · 文艺♂复兴专业
