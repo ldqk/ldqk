@@ -1,5 +1,5 @@
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ldqk"></a>
+  <img src="https://count.getloli.com/get/@ldqk?theme=rule34">
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
