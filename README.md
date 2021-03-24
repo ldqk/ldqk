@@ -1,3 +1,8 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ldqk"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+</p>
+
 ### [个人官网，懒得勤快的博客：ldqk.org](https://ldqk.org)  
 <p align="center">
 <br/>
