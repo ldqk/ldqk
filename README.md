@@ -1,10 +1,4 @@
-<p>
-  <img src="https://count.getloli.com/get/@ldqk?theme=rule34">
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
-</p>
-
 <p align="center">
-<br/>
 <a href="https://ldqk.org" target="_blank">
   <img alt="懒得勤快" width="35px" src="https://git.imweb.io/ldqk/imgbed/raw/master/20190606/5dc7fc1266bfd8109d1ef5e0e7630f2c_2_3_art.png" />
 </a>
@@ -17,6 +11,10 @@
 <a href="https://www.zhihu.com/people/ldqk" target="_blank">
   <img alt="懒得勤快" width="35px" src="https://static.zhihu.com/heifetz/favicon.ico" />
 </a>
+</p>
+<p>
+  <img src="https://count.getloli.com/get/@ldqk?theme=rule34">
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
 ![懒得勤快's github stats](https://github-readme-stats.vercel.app/api?username=ldqk&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
