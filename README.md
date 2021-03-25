@@ -3,7 +3,6 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
-### [个人官网，懒得勤快的博客：ldqk.org](https://ldqk.org)  
 <p align="center">
 <br/>
 <a href="https://ldqk.org" target="_blank">
@@ -23,6 +22,8 @@
 ![懒得勤快's github stats](https://github-readme-stats.vercel.app/api?username=ldqk&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ldqk&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 ![主要使用语言](https://github-profile-trophy.vercel.app/?username=ldqk&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)
+
+### [个人官网，懒得勤快的博客：ldqk.org](https://ldqk.org)  
 ### 个人简介
 - 懒得勤快，男，95后，程序猿，资深哲♂学家，新日暮里娼片公司继承人，码数科技创始人，懒得勤快博客站长，微软、阿里巴巴等集团投资人，京东、淘宝等电商平台战略合作伙伴。
 - 南山下，码农一枚。酷爱编程，乐于分享。
