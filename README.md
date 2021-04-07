@@ -11,6 +11,9 @@
 <a href="https://www.zhihu.com/people/ldqk" target="_blank">
   <img alt="懒得勤快" width="35px" src="https://static.zhihu.com/heifetz/favicon.ico" />
 </a>
+<a href="https://wpa.qq.com/msgrd?v=3&uin=3444764617&site=qq&menu=yes" target="_blank">
+  <img alt="懒得勤快" width="35px" src="https://img14.360buyimg.com/ddimg/jfs/t1/171035/31/16706/38651/606d2608E41d47310/cc2784a611b05582.png" />
+</a>
 </p>
 <p>
   <img src="https://count.getloli.com/get/@ldqk?theme=rule34">
