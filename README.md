@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://ldqk.org" target="_blank">
-  <img alt="懒得勤快" width="35px" src="https://git.imweb.io/ldqk/imgbed/raw/master/20190606/5dc7fc1266bfd8109d1ef5e0e7630f2c_2_3_art.png" />
+  <img alt="懒得勤快" width="35px" src="https://cdn.jsdelivr.net/gh/ldqk/imgbed/20190606/5dc7fc1266bfd8109d1ef5e0e7630f2c_2_3_art.png" />
 </a>
 <a href="https://t.me/ldqk0" target="_blank">
   <img alt="懒得勤快" width="35px" src="https://telegram.org/img/t_logo.svg?1" />
