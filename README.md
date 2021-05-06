@@ -5,7 +5,7 @@
 <a href="https://t.me/ldqk0" target="_blank">
   <img alt="懒得勤快" width="35px" src="https://telegram.org/img/t_logo.svg?1" />
 </a>
-<a href="https://gitee.com/masuit_admin" target="_blank">
+<a href="https://gitee.com/masuit" target="_blank">
   <img alt="懒得勤快" width="35px" src="https://gitee.com/favicon.ico" />
 </a>
 <a href="https://www.zhihu.com/people/ldqk" target="_blank">
