@@ -22,8 +22,9 @@
 
 ![懒得勤快's github stats](https://github-readme-stats.vercel.app/api?username=ldqk&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ldqk&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-![主要使用语言](https://github-profile-trophy.vercel.app/?username=ldqk&theme=flat&no-frame=true&margin-w=30)
-
+![profile](https://github-profile-trophy.vercel.app/?username=ldqk&theme=monokai&column=8&no-frame=true&no-bg=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldqk&theme=cobalt&hide_border=true&currStreakNum=DD2727&sideNums=8D02DD&stroke=DD2727)
+![](https://profile-summary-for-github.com/user/ldqk)
 ### [个人官网，懒得勤快的博客：ldqk.xyz](https://ldqk.xyz)  
 ### 个人简介
 - 懒得勤快，男，95后，程序猿，**高级CV工程师**，资深哲♂学家，SNP大一统理论研究爱好者，新日暮里娼片公司继承人，懒得勤快博客站长，微软、阿里巴巴等集团投资人，京东、淘宝等电商平台战略合作伙伴。
@@ -42,6 +43,8 @@
 | [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | [Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine) |
 | ----  | ----  |
 | <img src="https://starchart.cc/ldqk/Masuit.MyBlogs.svg"> | <img src="https://starchart.cc/ldqk/Masuit.LuceneEFCore.SearchEngine.svg"> |
+
+![提交记录](https://activity-graph.herokuapp.com/graph?username=ldqk&theme=github-light&custom_title=%E6%87%92%E5%BE%97%E5%8B%A4%E5%BF%AB%E7%9A%84%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
 ### 个人宗旨
 互联网分享精神！勤于发现，乐于分享！山外青山楼外楼，比上不足比下有余；规则是用来打破的，王道是用来颠覆的！
 ### 小广告
