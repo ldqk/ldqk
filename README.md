@@ -44,7 +44,7 @@
 | ----  | ----  |
 | <img src="https://starchart.cc/ldqk/Masuit.MyBlogs.svg"> | <img src="https://starchart.cc/ldqk/Masuit.LuceneEFCore.SearchEngine.svg"> |
 
-![提交记录](https://activity-graph.herokuapp.com/graph?username=ldqk&theme=github-light&custom_title=%E6%87%92%E5%BE%97%E5%8B%A4%E5%BF%AB%E7%9A%84%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
+![提交记录](https://activity-graph.herokuapp.com/graph?username=ldqk&theme=github-light&custom_title=%E6%9C%80%E8%BF%9130%E5%A4%A9%E7%9A%84%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
 ### 个人宗旨
 互联网分享精神！勤于发现，乐于分享！山外青山楼外楼，比上不足比下有余；规则是用来打破的，王道是用来颠覆的！
 ### 小广告
