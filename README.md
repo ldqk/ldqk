@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://ldqk.xyz" target="_blank">
+<a href="https://masuit.org" target="_blank">
   <img alt="懒得勤快" width="35px" src="https://cdn.jsdelivr.net/gh/ldqk/imgbed/20190606/5dc7fc1266bfd8109d1ef5e0e7630f2c_2_3_art.png" />
 </a>
 <a href="https://t.me/ldqk0" target="_blank">
@@ -25,7 +25,7 @@
 ![profile](https://github-profile-trophy.vercel.app/?username=ldqk&theme=monokai&column=8&no-frame=true&no-bg=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ldqk&theme=cobalt&hide_border=true&currStreakNum=DD2727&sideNums=8D02DD&stroke=DD2727)
 ![](https://profile-summary-for-github.com/user/ldqk)
-### [个人官网，懒得勤快的博客：ldqk.xyz](https://ldqk.xyz)  
+### [个人官网，懒得勤快的博客：masuit.org](https://masuit.org)  
 ### 个人简介
 - 懒得勤快，男，95后，程序猿，**高级CV工程师**，资深哲♂学家，SNP大一统理论研究爱好者，新日暮里娼片公司继承人，懒得勤快博客站长，微软、阿里巴巴等集团投资人，京东、淘宝等电商平台战略合作伙伴。
 - 南山下，码农一枚。酷爱编程，乐于分享。
