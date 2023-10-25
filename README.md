@@ -44,9 +44,6 @@
 | ----  | ----  |
 | <img src="https://starchart.cc/ldqk/Masuit.MyBlogs.svg"> | <img src="https://starchart.cc/ldqk/Masuit.LuceneEFCore.SearchEngine.svg"> |
 
-### 我的GitHub Contributions日历
-![](/assets/github-contribution-grid-snake.svg)
-
 ### 个人宗旨
 互联网分享精神！勤于发现，乐于分享！山外青山楼外楼，比上不足比下有余；规则是用来打破的，王道是用来颠覆的！
 ### 小广告
