@@ -36,13 +36,7 @@
 - 作为Microsoft、Google、Intel、NVIDIA、Qualcomm、中国电信、阿里巴巴集团、百度、腾讯、京东、哔哩哔哩、招商银行、台湾华硕股份、深圳万普拉斯科技、中国证监局、国家电网、中国铁路局等数十家国内外企业的投资人之一，并且保持着长期稳定的贸易与投资关系，每年助力企业产生数百亿的交易额的同时，为人低调；
 - 同时也是一位B站资深哲♂学家，探索未知领域😏。
 ### Star趋势  
-| [Masuit.Tools](https://github.com/ldqk/Masuit.Tools) | [以图搜图小工具](https://github.com/ldqk/ImageSearch) |
-|  ----  | ----  |
-| <img src="https://starchart.cc/ldqk/Masuit.Tools.svg"> | <img src="https://starchart.cc/ldqk/ImageSearch.svg"> |
-
-| [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | [Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine) |
-| ----  | ----  |
-| <img src="https://starchart.cc/ldqk/Masuit.MyBlogs.svg"> | <img src="https://starchart.cc/ldqk/Masuit.LuceneEFCore.SearchEngine.svg"> |
+[![Star History Chart](https://api.star-history.com/chart?repos=ldqk/masuit.tools%2Cldqk/imagesearch%2Cldqk/masuit.myblogs%2Cldqk/masuit.luceneefcore.searchengine&type=date&legend=top-left)](https://www.star-history.com/?repos=ldqk%2Fmasuit.tools%2Cldqk%2Fimagesearch%2Cldqk%2Fmasuit.myblogs%2Cldqk%2Fmasuit.luceneefcore.searchengine&type=date&legend=top-left)
 
 ### 个人宗旨
 互联网分享精神！勤于发现，乐于分享！山外青山楼外楼，比上不足比下有余；规则是用来打破的，王道是用来颠覆的！
